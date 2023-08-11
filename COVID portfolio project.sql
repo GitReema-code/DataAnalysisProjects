@@ -140,8 +140,3 @@ WHERE dea.continent IS NOT NULL
 
 SELECT * 
 FROM PercentPopulationVaccinated
-
-
-
-
-
